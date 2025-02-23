@@ -1,2 +1,3 @@
-/Users/noi/Hackathon1/hack_env
-/Users/noi/Hackathon1/.env
+/hack_env
+.env
+/copy_of_db_module
