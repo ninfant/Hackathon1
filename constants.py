@@ -1,0 +1,5 @@
+INSTRUCTIONS = 'instructions'
+RECIPE_ID = 'recipe_id'
+TITLE = 'title'
+USED_INGREDIENTS = 'used_ingredients'
+MISSED_INGREDIENTS = 'missed_ingredients'
